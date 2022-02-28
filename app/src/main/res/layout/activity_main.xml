@@ -162,6 +162,7 @@
         android:paddingVertical="10dp"
         android:textStyle="bold"
         android:textColor="@color/black"/>
+<!--    카카오 이미지는 버튼안에 어떻게 넣지 -->
 
 
 
